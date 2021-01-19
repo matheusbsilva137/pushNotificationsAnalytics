@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089763922802",
+    "project_id": "fir-notifications-6ff31",
+    "storage_bucket": "fir-notifications-6ff31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089763922802:android:334535e3e6e4e0d0d003eb",
+        "android_client_info": {
+          "package_name": "com.digitalhouse.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089763922802-486iar76m714i88r8kplj5lcbkhsheol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDicb9eFN4w7-UL0HYqoFjOPU-bpBFCI5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089763922802-486iar76m714i88r8kplj5lcbkhsheol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
